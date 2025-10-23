@@ -388,9 +388,9 @@ async def main():
     
     os.system("cls" if os.name == "nt" else "clear")
     
-    print("🚀 TIKTOK VIEW BOT - 100,000 TASKS (CỰC MẠNH)")
+    print("🚀 TIKTOK VIEW BOT - Shark Is Me xD")
     print("=" * 60)
-    print("⚠️  CẢNH BÁO: Chỉ sử dụng cho mục đích học tập")
+    print("⚠️  CẢNH BÁO: Chỉ sử dụng cho mục đích học tập Discord:@sharkismexd01")
     print("=" * 60)
     
     
